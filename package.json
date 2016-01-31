@@ -1,0 +1,18 @@
+{
+  "name": "node-electron-webrtc-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Chong <francis@ignition.hk> (http://reality.hk/)",
+  "license": "ISC",
+  "dependencies": {
+    "electron-webrtc": "0.0.1",
+    "signalhub": "^4.3.1",
+    "simple-peer": "^5.11.9",
+    "swarmhub": "github:paulkernfeld/swarmhub",
+    "webrtc-swarm": "^2.3.0"
+  }
+}
